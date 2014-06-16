@@ -1,0 +1,1 @@
+node_modules/traceur/traceur --experimental --async-functions  --out es6-app.js --script app.js && node --harmony runner.js
